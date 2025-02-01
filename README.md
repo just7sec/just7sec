@@ -18,6 +18,7 @@ Repositori ini dibuat sebagai tempat untuk menyimpan dan mengorganisir kode-kode
 ## Struktur Direktori
 
 pembelajaran-cpp/
+
 ├── basics/ # Kode dasar C++ (input/output, tipe data, dll)
 
 ├── control-structures/ # Contoh penggunaan if, else, switch, loop
@@ -72,24 +73,25 @@ Berikut adalah beberapa konsep yang dipelajari dan diimplementasikan dalam repos
   
    ## Cara Menggunakan
 
-1. **Clone Repositori**
+- **Clone Repositori**
    Clone repositori ini ke mesin lokal Anda:
    ```bash
    git clone https://github.com/username/pembelajaran-cpp.git
-2. Masuk ke direktori yang diinginkan, misalnya:
+  **Masuk ke direktori**
+   misalnya:
    ```bash
    cd pembelajaran-cpp
-3. Navigasi ke Direktori Kode
-   Misalnya, jika Anda ingin menjalankan kode di direktori basics, navigasikan ke direktori 
+   **Navigasi ke Direktori Kode**
+   Misalnya, jika Anda ingin menjalankan   kode di direktori basics, navigasikan ke direktori 
    tersebut:
    ```bash
    cd basics
-4. Kompilasi Kode C++
+   **Kompilasi Kode C++**
    Kompilasi file C++ menggunakan g++. Misalnya, untuk mengkompilasi hello.cpp:
    ```bash
    g++ hello.cpp -o hello
-5. Jalankan Program
-   Jalankan program yang telah dikompilasi:
+   **Jalankan Program**
+   Jalankan program yang telah   dikompilasi:
    ```bash
    ./hello
 
