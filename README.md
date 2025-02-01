@@ -16,6 +16,7 @@ Repositori ini berisi kumpulan kode, contoh, dan proyek yang saya buat selama me
 Repositori ini dibuat sebagai tempat untuk menyimpan dan mengorganisir kode-kode yang saya tulis selama belajar C++. Saya juga menggunakan repositori ini sebagai referensi pribadi dan untuk melacak perkembangan pembelajaran saya.
 
 ## Struktur Direktori
+
 pembelajaran-cpp/
 ├── basics/ # Kode dasar C++ (input/output, tipe data, dll)
 ├── control-structures/ # Contoh penggunaan if, else, switch, loop
@@ -89,8 +90,11 @@ Berikut adalah beberapa konsep yang dipelajari dan diimplementasikan dalam repos
 Berikut adalah beberapa sumber yang saya gunakan untuk mempelajari C++:
 
 LearnCPP
+
 C++ Reference
+
 The Cherno - C++ Series (YouTube)
+
 Buku: "C++ Primer" oleh Stanley B. Lippman
 
 ## Kontribusi
