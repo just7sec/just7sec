@@ -19,12 +19,19 @@ Repositori ini dibuat sebagai tempat untuk menyimpan dan mengorganisir kode-kode
 
 pembelajaran-cpp/
 ├── basics/ # Kode dasar C++ (input/output, tipe data, dll)
+
 ├── control-structures/ # Contoh penggunaan if, else, switch, loop
+
 ├── functions/ # Contoh fungsi dan rekursi
+
 ├── arrays-and-pointers/ # Kode terkait array dan pointer
-├── oop/ # Konsep Object-Oriented Programming (class, inheritance, polymorphism)
+
+├── oop/ # Konsep Object-Oriented Programming (class, inheritance, polymorphism) 
+
 ├── stl/ # Contoh penggunaan Standard Template Library (STL)
+
 ├── projects/ # Proyek kecil yang dibuat dengan C++
+
 └── README.md # File ini
 
 ## Konsep yang Dipelajari
