@@ -27,7 +27,6 @@ pembelajaran-cpp/
 └── README.md # File ini
 
 ## Konsep yang Dipelajari
-
 Berikut adalah beberapa konsep yang dipelajari dan diimplementasikan dalam repositori ini:
 
 1. **Dasar-dasar C++**
@@ -69,18 +68,15 @@ Berikut adalah beberapa konsep yang dipelajari dan diimplementasikan dalam repos
    git clone https://github.com/username/pembelajaran-cpp.git
 Masuk ke direktori yang diinginkan, misalnya:
 
-bash
-Copy
+```bash
 cd pembelajaran-cpp/basics
 Compile kode C++ menggunakan compiler seperti g++:
 
-bash
-Copy
+```bash
 g++ nama_file.cpp -o output_file
 Jalankan program yang telah di-compile:
 
-bash
-Copy
+```bash
 ./output_file
 
 Sumber Belajar
