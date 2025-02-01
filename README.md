@@ -71,7 +71,7 @@ Berikut adalah beberapa konsep yang dipelajari dan diimplementasikan dalam repos
    - Aplikasi sederhana menggunakan C++
 
   
-   ## Cara Menggunakan
+## Cara Menggunakan
 
 -  Clone Repositori
    Clone repositori ini ke mesin lokal Anda:
