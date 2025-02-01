@@ -1,6 +1,6 @@
 # Pembelajaran C++
 
-Repositori ini berisi kumpulan kode, contoh, dan proyek yang saya buat selama mempelajari bahasa pemrograman C++. Tujuannya adalah untuk memahami konsep-konsep dasar hingga lanjutan dalam C++ serta mengimplementasikannya dalam berbagai studi kasus.
+Repositori ini berisi kumpulan kode, contoh, dan proyek untuk mempelajari C++. Mencakup dasar-dasar, OOP, STL, dan konsep lanjutan. Dilengkapi script Bash untuk otomatisasi kompilasi dan eksekusi. Struktur direktori terorganisir dan siap digunakan!
 
 ## Daftar Isi
 
