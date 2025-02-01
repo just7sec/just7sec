@@ -1,5 +1,5 @@
 # 📚 Pembelajaran C++
-Repositori ini berisi kumpulan kode, contoh, dan proyek untuk mempelajari C++. Mencakup dasar-dasar, OOP, STL, dan konsep lanjutan. Dilengkapi script Bash untuk otomatisasi kompilasi dan eksekusi. Struktur direktori terorganisir dan siap digunakan!
+Repositori ini berisi kumpulan kode, contoh, dan proyek untuk mempelajari C++. Mencakup dasar-dasar, OOP, STL, dan konsep lanjutan. Struktur direktori terorganisir dan siap digunakan!
 ## Daftar Isi
 
 - [Tentang Repositori](#tentang-repositori)
