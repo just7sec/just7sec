@@ -95,7 +95,6 @@ Berikut adalah beberapa konsep yang dipelajari dan diimplementasikan dalam repos
    ```bash
    ./hello
 
-
 ## Sumber Belajar
 Berikut adalah beberapa sumber yang saya gunakan untuk mempelajari C++:
 
