@@ -73,24 +73,24 @@ Berikut adalah beberapa konsep yang dipelajari dan diimplementasikan dalam repos
   
    ## Cara Menggunakan
 
-- **Clone Repositori**
+-  Clone Repositori
    Clone repositori ini ke mesin lokal Anda:
    ```bash
    git clone https://github.com/username/pembelajaran-cpp.git
-  **Masuk ke direktori**
+-  Masuk ke direktor
    misalnya:
    ```bash
    cd pembelajaran-cpp
-   **Navigasi ke Direktori Kode**
+-  Navigasi ke Direktori Kode
    Misalnya, jika Anda ingin menjalankan   kode di direktori basics, navigasikan ke direktori 
    tersebut:
    ```bash
    cd basics
-   **Kompilasi Kode C++**
+-  Kompilasi Kode C++
    Kompilasi file C++ menggunakan g++. Misalnya, untuk mengkompilasi hello.cpp:
    ```bash
    g++ hello.cpp -o hello
-   **Jalankan Program**
+-  Jalankan Program
    Jalankan program yang telah   dikompilasi:
    ```bash
    ./hello
