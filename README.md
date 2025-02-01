@@ -63,23 +63,29 @@ Berikut adalah beberapa konsep yang dipelajari dan diimplementasikan dalam repos
   
    ## Cara Menggunakan
 
-1. Clone repositori ini ke lokal mesin Anda:
+1. **Clone Repositori**
+   Clone repositori ini ke mesin lokal Anda:
    ```bash
    git clone https://github.com/username/pembelajaran-cpp.git
-Masuk ke direktori yang diinginkan, misalnya:
+2. Masuk ke direktori yang diinginkan, misalnya:
+   ```bash
+   cd pembelajaran-cpp
+3. Navigasi ke Direktori Kode
+   Misalnya, jika Anda ingin menjalankan kode di direktori basics, navigasikan ke direktori 
+   tersebut:
+   ```bash
+   cd basics
+4. Kompilasi Kode C++
+   Kompilasi file C++ menggunakan g++. Misalnya, untuk mengkompilasi hello.cpp:
+   ```bash
+   g++ hello.cpp -o hello
+5. Jalankan Program
+   Jalankan program yang telah dikompilasi:
+   ```bash
+   ./hello
 
-```bash
-cd pembelajaran-cpp/basics
-Compile kode C++ menggunakan compiler seperti g++:
 
-```bash
-g++ nama_file.cpp -o output_file
-Jalankan program yang telah di-compile:
-
-```bash
-./output_file
-
-Sumber Belajar
+## Sumber Belajar
 Berikut adalah beberapa sumber yang saya gunakan untuk mempelajari C++:
 
 LearnCPP
@@ -87,9 +93,9 @@ C++ Reference
 The Cherno - C++ Series (YouTube)
 Buku: "C++ Primer" oleh Stanley B. Lippman
 
-Kontribusi
+## Kontribusi
 Jika Anda ingin berkontribusi atau memberikan saran, silakan buka issue atau pull request. Semua kontribusi sangat dihargai!
 
-Lisensi
+## Lisensi
 Repositori ini dilisensikan di bawah MIT License.
 Anda bisa menyesuaikan kontennya sesuai dengan proyek atau pembelajaran Anda. Semoga membantu!
