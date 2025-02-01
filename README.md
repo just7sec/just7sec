@@ -61,3 +61,39 @@ Berikut adalah beberapa konsep yang dipelajari dan diimplementasikan dalam repos
 
 7. **Proyek Kecil**
    - Aplikasi sederhana menggunakan C++
+  
+   ## Cara Menggunakan
+
+1. Clone repositori ini ke lokal mesin Anda:
+   ```bash
+   git clone https://github.com/username/pembelajaran-cpp.git
+Masuk ke direktori yang diinginkan, misalnya:
+
+bash
+Copy
+cd pembelajaran-cpp/basics
+Compile kode C++ menggunakan compiler seperti g++:
+
+bash
+Copy
+g++ nama_file.cpp -o output_file
+Jalankan program yang telah di-compile:
+
+bash
+Copy
+./output_file
+
+Sumber Belajar
+Berikut adalah beberapa sumber yang saya gunakan untuk mempelajari C++:
+
+LearnCPP
+C++ Reference
+The Cherno - C++ Series (YouTube)
+Buku: "C++ Primer" oleh Stanley B. Lippman
+
+Kontribusi
+Jika Anda ingin berkontribusi atau memberikan saran, silakan buka issue atau pull request. Semua kontribusi sangat dihargai!
+
+Lisensi
+Repositori ini dilisensikan di bawah MIT License.
+Anda bisa menyesuaikan kontennya sesuai dengan proyek atau pembelajaran Anda. Semoga membantu!
