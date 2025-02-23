@@ -3,14 +3,11 @@ import mediapipe as mp
 import math
 import numpy as np
 
-# Inisialisasi MediaPipe Hands
 mp_hands = mp.solutions.hands
 hands = mp_hands.Hands()
 
-# Inisialisasi MediaPipe Drawing
 mp_drawing = mp.solutions.drawing_utils
 
-# Buka kamera
 cap = cv2.VideoCapture(0)
 
 def count_raised_fingers(landmarks):
@@ -66,7 +63,7 @@ while cap.isOpened():
             distance_cm = calculate_distance(index_finger_tip, thumb_tip, frame.shape[1], frame.shape[0])
             size = int(distance_cm * 10)  
             
-            draw_star(frame, (center_x, center_y), size, (0, 165, 255), 2)  # Orange color
+            draw_star(frame, (center_x, center_y), size, (0, 165, 255), 2)  
             
             if handedness.classification[0].label == 'Right':
                 right_hand_distance = distance_cm
