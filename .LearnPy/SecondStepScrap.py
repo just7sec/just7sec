@@ -5,10 +5,9 @@ url = "http://books.toscrape.com/catalogue/category/books_1/index.html"
 
 try:
     response = requests.get(url)
-    response.raise_for_status()  # Check if the request was successful
+    response.raise_for_status()  
     soup = BeautifulSoup(response.text, "html.parser")
 
-    # Extract product names
     products = soup.find_all("h3")
     for product in products:
         print(product.find("a")["title"])
